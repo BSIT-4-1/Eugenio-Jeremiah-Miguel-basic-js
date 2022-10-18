@@ -6,7 +6,7 @@ console.log("Hello World!")
 //console.warn()
 //console.time()
 
-let name = "Migser" //string
+let name = "Migs" //string
 let age = 20 // number 
 let isSingle = false //boolean
 let hobbies = ['watching movies', 'playing instrument', 'palying video game']
